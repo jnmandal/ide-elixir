@@ -4,7 +4,7 @@
   "version": "0.0.1-rc1",
   "description": "Atom IDE plugin for Elixir, tracking master of the elixir-lsp fork of ElixirLS",
   "keywords": [],
-  "repository": "https://github.com/jnmandal/ide-elixir",
+  "repository": "https://github.com/jnmandal/ide-elixir-elixir-lsp-master",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
