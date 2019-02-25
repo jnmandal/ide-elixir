@@ -1,10 +1,10 @@
 {
-  "name": "ide-elixir",
+  "name": "ide-elixir-elixir-lsp-master",
   "main": "./lib/ide-elixir",
-  "version": "0.2.23",
-  "description": "Atom IDE plugin for Elixir, powered by ElixirLS",
+  "version": "0.0.1-rc1",
+  "description": "Atom IDE plugin for Elixir, tracking master of the elixir-lsp fork of ElixirLS",
   "keywords": [],
-  "repository": "https://github.com/JakeBecker/ide-elixir",
+  "repository": "https://github.com/jnmandal/ide-elixir-elixir-lsp-master",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
